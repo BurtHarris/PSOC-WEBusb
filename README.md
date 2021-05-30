@@ -1,4 +1,4 @@
-# psoc-WebUSB
+# PSoC-WebUSB
 Developing [WebUSB][1] support for Cypress/Infineon PSoC series microcontrollers
 
 ## Status
